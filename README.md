@@ -63,7 +63,7 @@
       <br>
       <h3 style="margin: 0; color: #f7768e;">MUSTAKIM AHAD</h3>
       <code style="color: #8b949e; background: none;">UI/UX Designer</code><br><br>
-      <a href="https://github.com/saharinfffislam">
+      <a href="https://github.com/mustakim-ahad">
         <img src="https://img.shields.io/badge/View_Profile-1f2328?style=for-the-badge&logo=github" height="25">
       </a>
       <br><br>
