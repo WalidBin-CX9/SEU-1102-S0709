@@ -81,7 +81,7 @@
   <tr style="border: none;">
     <td width="50%" style="vertical-align: top; border: none;">
 <pre>
-📁 <b><a href="./">SEU-CSE1102</a></b> (Root)
+📁 <b><a href="./">SEU-CSE1102-203</a></b> (Root)
 ├── 📁 <b><a href="./presentation/">presentation</a></b>
 │   └── 📄 <a href="./presentation/main_slides.pptx">main_slides.pptx</a>
 ├── 📁 <b><a href="./reports/">reports</a></b>
