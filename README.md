@@ -121,9 +121,9 @@
 
 <p align="center">
   Developed for <b>Southeast University</b> - Department of CSE <br>
-  <font color="#58a6ff">© 2024 Group S0101. All Rights Reserved.</font>
+  <font color="#58a6ff">© 2024 Group DOT ONION. All Rights Reserved.</font>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=1a1b26&height=20" width="100%"/>
+  <img src="https://github.com/WalidBin-CX9/SEU-1102-203/blob/main/resources/images/Southeast_University_(Bangladesh)_(logo).png" width="100px" />
 </p>
