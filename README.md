@@ -1,17 +1,13 @@
-# <p align="center">🚀 SEU-CSE1102</p>
+# <p align="center">🚀 SEU-CSE1102-709</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=COURSE+CODE:+CSE1102.1;STUDENT+CODE:+203;TOPIC:+Navigating+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=COURSE+CODE:+CSE1102.1;Group+CODE:+S709;TOPIC:+Navigating+Web" alt="Typing SVG" />
 </p>
 
 
 ## 📖 Overview
-> This repository serves as the central hub for **Group DOT ONION**. It contains all presentation materials, research reports, and technical resources developed throughout the semester for the course **CSE1102.1**.
+> This repository serves as the central hub for **Group S709**. It contains all presentation materials, research reports, and technical resources developed throughout the semester for the course **CSE1102.1**.
 
-### 🛠️ Tech & Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -34,12 +30,10 @@
       <img src="https://github.com/WalidBin-CX9.png" width="110" style="border-radius: 50%; border: 3px solid #58a6ff; padding: 5px; background: #0d1117;" alt="Walid"/><br />
       <br>
       <h3 style="margin: 0; color: #58a6ff;">WALID BIN HOSSAIN</h3>
-      <code style="color: #8b949e; background: none;">Core</code><br><br>
+      <code style="color: #8b949e; background: none;">2026000000203</code><br><br>
       <a href="https://github.com/WalidBin-CX9">
         <img src="https://img.shields.io/badge/View_Profile-1f2328?style=for-the-badge&logo=github" height="25">
       </a>
-      <br><br>
-      <small>🔵 <b>Active Contributor</b></small>
     </td>
     <td align="center" style="background: linear-gradient(180deg, #161b22 0%, #0d1117 100%); border: 1px solid #30363d; border-radius: 20px; padding: 30px; width: 240px;">
       <p align="right">
@@ -48,12 +42,10 @@
       <img src="https://github.com/ashikuzzaman-33.png" width="110" style="border-radius: 50%; border: 3px solid #3fb950; padding: 5px; background: #0d1117;" alt="Ashik"/><br />
       <br>
       <h3 style="margin: 0; color: #3fb950;">ASHIKUZZAMAN</h3>
-      <code style="color: #8b949e; background: none;">Data Finder</code><br><br>
+      <code style="color: #8b949e; background: none;">2026000000191</code><br><br>
       <a href="https://github.com/ashikuzzaman-33">
         <img src="https://img.shields.io/badge/View_Profile-1f2328?style=for-the-badge&logo=github" height="25">
       </a>
-      <br><br>
-      <small>🟢 <b>Online</b></small>
     </td>
     <td align="center" style="background: linear-gradient(180deg, #161b22 0%, #0d1117 100%); border: 1px solid #30363d; border-radius: 20px; padding: 30px; width: 240px;">
       <p align="right">
@@ -62,12 +54,10 @@
       <img src="https://github.com/mustakim-ahad.png" width="110" style="border-radius: 50%; border: 3px solid #f7768e; padding: 5px; background: #0d1117;" alt="Mustakim"/><br />
       <br>
       <h3 style="margin: 0; color: #f7768e;">MUSTAKIM AHAD</h3>
-      <code style="color: #8b949e; background: none;">UI/UX Designer</code><br><br>
+      <code style="color: #8b949e; background: none;">2026000000181</code><br><br>
       <a href="https://github.com/mustakim-ahad">
         <img src="https://img.shields.io/badge/View_Profile-1f2328?style=for-the-badge&logo=github" height="25">
       </a>
-      <br><br>
-      <small>🟢 <b>Online</b></small>
     </td>
   </tr>
 </table>
