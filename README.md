@@ -74,9 +74,7 @@ The internet is significantly larger than what the average user encounters daily
 2. Collected numbers and data about how big each layer is.
 3. Made a chart in Excel to show the difference.
 4. Wrote the report and set up this GitHub page.
----
-## 📊 Spreadsheet Explanation
-Our Excel file shows that the Surface Web is very small (only about 4%), while the Deep Web is huge. We used a table to compare the size and security of each layer.
+
 ---
 
 ## 🤖 AI Usage Log
@@ -91,6 +89,10 @@ Our Excel file shows that the Surface Web is very small (only about 4%), while t
 
 ### Project Chart
 ![My Chart](resources/images/Chart.png)
+
+---
+## 📊 Spreadsheet Explanation
+Our Excel file shows that the Surface Web is very small (only about 4%), while the Deep Web is huge. We used a table to compare the size and security of each layer.
 
 
 ## 🤝 Contribution of Each Member
@@ -113,6 +115,7 @@ Our Excel file shows that the Surface Web is very small (only about 4%), while t
 │   └── 📄 <a href="./reports/research_paper.pdf">research_paper.pdf</a>
 ├── 📁 <b><a href="./resources/">resources</a></b>
 │   └── 📁 <b><a href="./resources/images/">images</a></b>
+├── 📁 <b><a href="./excel/">Spreadsheet</a></b>
 └── 📄 <b><a href="./README.md">README.md</a></b>
       </pre>
     </td>
@@ -129,8 +132,6 @@ Our Excel file shows that the Surface Web is very small (only about 4%), while t
 
 ---
 
-
----
 
 
 <p align="center">
