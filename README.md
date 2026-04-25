@@ -115,7 +115,7 @@ Our Excel file shows that the Surface Web is very small (only about 4%), while t
 │   └── 📄 <a href="./reports/research_paper.pdf">research_paper.pdf</a>
 ├── 📁 <b><a href="./resources/">resources</a></b>
 │   └── 📁 <b><a href="./resources/images/">images</a></b>
-├── 📁 <b><a href="./excel/">Spreadsheet</a></b>
+    └── 📁 <b><a href="./resources/excel/">Excel</a></b>
 └── 📄 <b><a href="./README.md">README.md</a></b>
       </pre>
     </td>
