@@ -88,7 +88,7 @@ The internet is significantly larger than what the average user encounters daily
 ---
 
 ### Project Chart
-![My Chart](resources/images/Chart.png)
+![My Chart](images/Chart.png)
 
 ---
 ## 📊 Spreadsheet Explanation
@@ -109,7 +109,7 @@ Our Excel file shows that the Surface Web is very small (only about 4%), while t
     <td width="50%" style="vertical-align: top; border: none;">
 <pre>
 📁 <b><a href="./">SEU-CSE1102-203</a></b>
-├── 📁 <b><a href="./slides/main_slides.pptx">main_slides.pptx</a></b>
+├── 📁 <b><a href="./slides/main_slides.pptx">SLIDES</a></b>
 ├── 📁 <b><a href="./reports/research_paper.pdf">research_paper.pdf</a>
 ├── 📁 <b><a href="./resources/images/">images</a></b>
 └── 📁 <b><a href="./resources/excel/">Excel</a></b>
@@ -137,5 +137,5 @@ Our Excel file shows that the Surface Web is very small (only about 4%), while t
 </p>
 
 <p align="center">
-  <img src="https://github.com/WalidBin-CX9/SEU-1102-203/blob/main/resources/images/Southeast_University_(Bangladesh)_(logo).png" width="100px" />
+  <img src="https://github.com/WalidBin-CX9/SEU-1102-S0709/blob/main/images/Southeast_University_(Bangladesh)_(logo).png" width="100px" />
 </p>
