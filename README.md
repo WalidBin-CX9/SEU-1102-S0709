@@ -90,7 +90,7 @@ Our Excel file shows that the Surface Web is very small (only about 4%), while t
 ---
 
 ### Project Chart
-![My Chart](images/chart.png)
+![My Chart](resources/images/Chart.png)
 
 
 ## 🤝 Contribution of Each Member
