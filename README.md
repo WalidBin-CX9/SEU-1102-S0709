@@ -108,14 +108,11 @@ Our Excel file shows that the Surface Web is very small (only about 4%), while t
   <tr style="border: none;">
     <td width="50%" style="vertical-align: top; border: none;">
 <pre>
-📁 <b><a href="./">SEU-CSE1102-203</a></b> (Root)
-├── 📁 <b><a href="./presentation/">presentation</a></b>
-│   └── 📄 <a href="./presentation/main_slides.pptx">main_slides.pptx</a>
-├── 📁 <b><a href="./reports/">reports</a></b>
-│   └── 📄 <a href="./reports/research_paper.pdf">research_paper.pdf</a>
-├── 📁 <b><a href="./resources/">resources</a></b>
-│   └── 📁 <b><a href="./resources/images/">images</a></b>
-    └── 📁 <b><a href="./resources/excel/">Excel</a></b>
+📁 <b><a href="./">SEU-CSE1102-203</a></b>
+├── 📁 <b><a href="./slides/main_slides.pptx">main_slides.pptx</a></b>
+├── 📁 <b><a href="./reports/research_paper.pdf">research_paper.pdf</a>
+├── 📁 <b><a href="./resources/images/">images</a></b>
+└── 📁 <b><a href="./resources/excel/">Excel</a></b>
 └── 📄 <b><a href="./README.md">README.md</a></b>
       </pre>
     </td>
